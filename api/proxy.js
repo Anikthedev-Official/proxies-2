@@ -1,7 +1,7 @@
 import { createProxyMiddleware } from "http-proxy-middleware";
 import { createServer } from "http";
 
-const target = "https://eaglercraft.com";
+const target = "https://irv77.github.io/AmplerLauncher/";
 
 // Reusable handler
 const proxy = createProxyMiddleware({
